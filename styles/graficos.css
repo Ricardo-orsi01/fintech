@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#dashboard {
+    background-color: deepskyblue;
+    width: 20%;
+    border-radius: 0 20px 20px 0px;
+    color: white;
+}
+
+canvas {
+    background-color: deepskyblue;
+}
+
+.graficos {
+    width: 100%;
+
+}
+
+.datas{
+    background-color: dimgrey;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+#mes {
+    background-color: deepskyblue;
+}
+
+header {
+    min-height: 90vh;
+}

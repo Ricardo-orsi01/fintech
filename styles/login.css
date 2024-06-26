@@ -4,17 +4,16 @@
     box-sizing: border-box;
 }
 
-#login {
-    width: 50%;
+#btn {
     background-color: deepskyblue;
-}
-
-a {
     color: white;
 }
 
-#conta {
-    text-transform: none;
-    text-decoration: none;
-    color: grey;
+input[type=text] {
+    background-color: darkgrey;
+    color: white;
+}
+
+#esqueci {
+    color: aqua;
 }

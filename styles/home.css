@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.vh-auto {
+    min-height: 90vh;
+}
+
+.top {
+    background-color: deepskyblue;
+    color: white;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.alert {
+    background-color: red;
+    color: white;
+}
+
+
+.valor {
+    color: red;
+}
